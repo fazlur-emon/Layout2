@@ -1,0 +1,88 @@
+*{ 
+    margin: 0%;
+    padding: 0%;
+    font-family: fantasy;
+}
+header{
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    background-color: rgb(250, 104, 0);
+    text-align: center;
+    float: left;
+    height: 50px;
+}
+nav{
+    width: 80%;
+    background-color: rgb(124, 65, 65); 
+    text-align: center;
+    float: right;
+    height: 50px;
+}
+.header-bar{
+    width: 100%;
+    background-color: gainsboro;
+    height: 30px;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+    text-align: center;
+}
+.left-content{
+    background-color: rgb(235, 229, 183);
+    float: left;
+    height: 500px;
+    width: 25%;
+}
+.middle-content{
+    background-color: lightblue;
+    float: left;
+    height: 500px;
+    width: 50%;
+}
+.right-content{
+    background-color: lightcyan;
+    float: left;
+    height: 500px;
+    width: 25%;
+}
+.top{
+    width: auto ;
+    height: 200px;
+    background-color: magenta;
+
+}
+.middle{
+height: 100px;
+width: auto;
+background-color: mediumblue;
+
+}
+.bottom{
+    height: 200px;
+    width: auto;
+    background-color: mediumvioletred;
+
+}
+.blocks{
+    overflow: hidden;
+}
+.left-blocks{
+    width: 50%;
+    height: 100px;
+    background-color: orange;
+    float: left;
+}
+.right-blocks{
+    width: 50%;
+    height: 100px;
+    background-color: red;
+    float: right;
+}
+.footer-bar{
+    background-color: teal;
+    text-align: center;
+    height: 100px;
+} 
